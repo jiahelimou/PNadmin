@@ -1,0 +1,10 @@
+{
+    "msg":"测试接口数据成功！",
+    "data":[
+        { "thumb":"", "type":"Public", "name":"小玲", "date":"2023-02-15" },
+        { "thumb":"", "type":"Public", "name":"小明", "date":"2023-02-15" },
+        { "thumb":"", "type":"Public", "name":"小辰", "date":"2023-02-25" },
+        { "thumb":"", "type":"Public", "name":"小花", "date":"2023-02-05" },
+        { "thumb":"", "type":"Public", "name":"小木", "date":"2023-02-05" }
+    ]
+  }
